@@ -1,2 +1,2 @@
-# AlgoritmoGenetico
-É o código da metaheurística Algoritmo Genético (AG) que desenvolvi em meu projeto de Iniciação Científica para a sintonia dos parâmetros de um controlador PID para o controle de um sistema Ball and Beam. O código foi implementado no GNU Octave.
+# Algoritmo Genetico
+É o código da metaheurística Algoritmo Genético (AG) que desenvolvi em meu projeto de Iniciação Científica em 2024 para a sintonia dos parâmetros de um controlador PID para o controle de um sistema Ball and Beam. O código foi implementado no software GNU Octave. Os operadores genéticos usados para a resposta do algoritmo são: Seleção por Torneio, Crossover Um Ponto e Mutação Uniforme. Ademais, também foi implementado a Seleção por Roleta e o Crossover Dois Pontos, além do índice de desempenho IAE (Integral do Valor Absoluto do Erro) para o uso na função Fitness que avalia as aptidões dos indivíduos.
